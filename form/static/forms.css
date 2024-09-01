@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(249, 249, 249);
+    font-family: "Poppins", system-ui;
+}
+
+.titulo{
+    font-style: normal;
+    color: rgb(48, 48, 218);
+    font-size: 40px;
+    text-align: center;
+    border: none;
+    margin-top: 60px;
+
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 100px;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(55, 55, 232);
+
+}
+
+.botao{
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-weight: 400;
+    color: #fff;
+    font-style: normal;
+    background-color: rgb(47, 47, 214);
+    align-self: center;
+    border: none;
+    margin-top: 30px;
+    
+}
+
+input{
+    border-radius: 4px;
+    padding: 2px 16px;
+    border: 1px solid rgb(200, 202, 212);
+}
+
+select{
+    border-radius: 4px;
+    padding: 2px 16px;
+    border: 1px solid rgb(200, 202, 212);
+    
+}
